@@ -1,9 +1,8 @@
 = jQuery Alerts
 
-This is a modified version of jQuery alerts from Cory S.N. LaViska
+This is a modified version of jQuery alerts from Cory S.N. LaViska, A Beautiful
+Site (http://abeautifulsite.net/notebook/87).
 
-A Beautiful Site (http://abeautifulsite.net/)
-http://abeautifulsite.net/notebook/87
 Dual-licensed as GPL and MIT.
 
 == Modifications
@@ -14,7 +13,7 @@ Dual-licensed as GPL and MIT.
 
 == Installation
 
-Copy and include the .js and .css files
+Just copy and include the .js and .css files.
 
 == Usage
 
@@ -32,4 +31,4 @@ Copy and include the .js and .css files
 
 == License
 
-Reseased under MIT License as the original source
+Reseased under MIT License as the original source was.
