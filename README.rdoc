@@ -1,0 +1,35 @@
+= jQuery Alerts
+
+This is a modified version of jQuery alerts from Cory S.N. LaViska
+
+A Beautiful Site (http://abeautifulsite.net/)
+http://abeautifulsite.net/notebook/87
+Dual-licensed as GPL and MIT.
+
+== Modifications
+
+- no titles anymore;
+- no 'draggable' dependency;
+- buttons texts are parametrables (for i18n and more flexibility).
+
+== Installation
+
+Copy and include the .js and .css files
+
+== Usage
+
+  jAlert('Yup', 'Okay dude', function(){
+   // ...
+  });
+
+  jConfirm('Sure ?', 'Yes dude', 'Nope', function(){
+   // ...
+  });
+
+  jPrompt('What is the response?', 42, 'OK', 'Cancel', function(){
+   // ...
+  });
+
+== License
+
+Reseased under MIT License as the original source
