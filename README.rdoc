@@ -21,8 +21,12 @@ Just copy and include the .js and .css files.
    // ...
   });
 
-  jConfirm('Sure ?', 'Yes dude', 'Nope', function(){
-   // ...
+  jConfirm('Sure ?', 'Yes dude', 'Nope', function(confirmed){
+    if(confirmed){
+
+	  }else{
+	
+	  }
   });
 
   jPrompt('What is the response?', 42, 'OK', 'Cancel', function(){
